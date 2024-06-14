@@ -2,6 +2,7 @@ defmodule RPNCalculator do
   @moduledoc """
   Experimental Reverse Polish Notation [RPN]
   """
+
   @doc """
   Calculate operation with stack argument
   """
